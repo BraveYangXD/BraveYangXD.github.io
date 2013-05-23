@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://BraveYangXD.github.io/blog/2013/05/23/this-is-my-first-post/</loc>
+        <lastmod>2013-05-23T13:15:54+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://BraveYangXD.github.io/blog/archives/</loc>
-        <lastmod>2013-05-11T22:23:00+08:00</lastmod>
+        <lastmod>2013-05-23T13:15:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://BraveYangXD.github.io/first-page/</loc>
+        <lastmod>2013-05-23T13:16:22+08:00</lastmod>
     </url>
     <url>
         <loc>http://BraveYangXD.github.io/</loc>
-        <lastmod>2013-05-11T22:23:00+08:00</lastmod>
+        <lastmod>2013-05-23T13:15:54+08:00</lastmod>
     </url>
     <url>
         <loc>http://BraveYangXD.github.io/robots.txt</loc>
